@@ -13,10 +13,11 @@ And provide Informative Dashboard showcasing the following key parameters:
   
 #Project:
 
-~ Led Data Collection and integration of all Data Records across various branches.
-~ Performed comprehensive SQL Data Extraction, Transformation and Analysis.
+~ Led Data Collection and integration of all Data Records across various branches
+~ Performed comprehensive SQL Data Extraction, Transformation and Analysis
 ~ Prepared Required Data for Data visualization
 ~ Created an informative Dashboard providing all required measures like: 
+
 *Patient Information
 *Billing Amount
 *Bed occupancy Breakdown
